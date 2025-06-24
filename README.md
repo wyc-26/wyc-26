@@ -20,4 +20,4 @@
 
 [![github-chinese](https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese&theme=radical&show_owner=true)](https://github.com/maboloshi/github-chinese)
 
-[![PCL2](https://github-readme-stats.vercel.app/api/pin/?username=Hex-Dragon&repo=PCL2&theme=radical&show_owner=true)](https://github.com/Hex-Dragon/PCL2)
+[![PCL2](https://github-readme-stats.vercel.app/api/pin/?username=Meloong-Git&repo=PCL&theme=radical&show_owner=true)](https://github.com/Meloong-Git/PCL)
