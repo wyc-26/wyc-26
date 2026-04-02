@@ -24,6 +24,7 @@ jobs:
             assets/github-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           message: "generate snake game 🐍"
+          default_author: github_actions
