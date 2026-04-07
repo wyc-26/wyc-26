@@ -2,7 +2,11 @@
 
 欢迎来到我的 GitHub 页面！🌟 | Welcome to my GitHub page! 🌟
 
-![My GitHub stats](./assets/stats.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats.svg" />
+  <img alt="stats" src="assets/stats.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />

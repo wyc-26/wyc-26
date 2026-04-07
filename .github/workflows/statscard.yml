@@ -1,4 +1,4 @@
-name: Update README cards
+name: Generate Stats Card
 
 on:
   schedule:
@@ -19,6 +19,14 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
+          path: assets/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to GitHub
