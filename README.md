@@ -1,12 +1,6 @@
 你好！🙌 | Hello! 🙌
 
-我的英文名是 Eason | My English name is Eason
-
-我很喜欢编程 | I'm interested in programming
-
-我现在正在学习 C++ 与 Python | I‘m learning C++ and Python at the moment
-
-现在我效力于 **PCL-Community** 组织 | Now I'm in **PCL-Community**
+欢迎来到我的 GitHub 页面！🌟 | Welcome to my GitHub page! 🌟
 
 ![My GitHub stats](./assets/stats.svg)
 
