@@ -2,7 +2,7 @@ name: Generate Stats Card
 
 on:
   schedule:
-    - cron: "14 5 * * *"
+    - cron: "14 1 * * *"
   workflow_dispatch:
 
 jobs:
